@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/libsvm/libsvm/svm.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+float.h
+-
+string.h
+-
+stdarg.h
+-
+limits.h
+-
+locale.h
+-
+svm.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/libsvm/libsvm/svm.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/libsvm/libsvm/svm.h
+

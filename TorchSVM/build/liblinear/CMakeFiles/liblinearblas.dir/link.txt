@@ -1,0 +1,2 @@
+/usr/bin/ar qc libliblinearblas.a  CMakeFiles/liblinearblas.dir/liblinear/blas/daxpy.c.o CMakeFiles/liblinearblas.dir/liblinear/blas/ddot.c.o CMakeFiles/liblinearblas.dir/liblinear/blas/dnrm2.c.o CMakeFiles/liblinearblas.dir/liblinear/blas/dscal.c.o
+/usr/bin/ranlib libliblinearblas.a

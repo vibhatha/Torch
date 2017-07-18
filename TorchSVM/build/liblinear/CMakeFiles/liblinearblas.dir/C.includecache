@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blas.h
+blasp.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blasp.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blasp.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/daxpy.c
+blas.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blas.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/ddot.c
+blas.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blas.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/dnrm2.c
+math.h
+-
+blas.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blas.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/dscal.c
+blas.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/blas/blas.h
+

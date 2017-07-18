@@ -1,0 +1,11 @@
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lib/libsvmutil.so
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svm/init.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svm/data.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svmsgd/init.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svmsgd/sgd.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svmsgd/asgd.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/svmsgd/loss.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lib/libliblinear.so
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/liblinear/init.lua
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lib/liblibsvm.so
+/home/vibhatha/torch/install/lib/luarocks/rocks/svm/0.1-0/lua/libsvm/init.lua

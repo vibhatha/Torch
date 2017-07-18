@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared  -o libsvmutil.so CMakeFiles/svmutil.dir/init.c.o CMakeFiles/svmutil.dir/data.c.o CMakeFiles/svmutil.dir/util.c.o  -L/home/vibhatha/torch/install/lib -lluaT /home/vibhatha/torch/install/lib/libTH.so.0 -lluajit -lopenblas -lrt -lm -Wl,-rpath,/home/vibhatha/torch/install/lib::::::::::::::: 

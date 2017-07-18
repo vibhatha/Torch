@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/linear.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+locale.h
+-
+linear.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/linear.h
+tron.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/tron.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/linear.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/tron.cpp
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+tron.h
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/tron.h
+
+/home/vibhatha/ds/torch/TorchApps/TorchSVM/torch-svm/liblinear/liblinear/tron.h
+
